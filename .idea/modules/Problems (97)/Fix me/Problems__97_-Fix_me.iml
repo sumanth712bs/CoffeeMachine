@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems__97_-Fix_me" external.linked.project.path="$MODULE_DIR$/../../../../Problems (97)/Fix me" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Coffee_Machine" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems (97)/Fix me">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (97)/Fix me/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (97)/Fix me/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (97)/Fix me/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

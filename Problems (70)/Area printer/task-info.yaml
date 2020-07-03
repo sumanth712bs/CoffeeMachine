@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun printArea(rectangle: Rectangle) {
+        // ...
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6208
+status: Solved
+record: -1
